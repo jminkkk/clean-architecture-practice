@@ -1,4 +1,4 @@
-package jiminkkk.practice.cleanarchitecturepracitce.domain;
+package jiminkkk.practice.cleanarchitecturepracitce.account.domain;
 
 public class Money {
     public static Money add(Money money, ActivityWindow activityWindow) {

@@ -1,4 +1,4 @@
-package jiminkkk.practice.cleanarchitecturepracitce.domain;
+package jiminkkk.practice.cleanarchitecturepracitce.account.domain;
 
 // 한 계좌에서 다른 계좌로 송금하는 유스케이스
 

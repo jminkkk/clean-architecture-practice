@@ -1,4 +1,4 @@
-package jiminkkk.practice.cleanarchitecturepracitce.domain;
+package jiminkkk.practice.cleanarchitecturepracitce.account.domain;
 
 public class ActivityWindow {
     public ActivityWindow calculateBalance(AccountId id) {

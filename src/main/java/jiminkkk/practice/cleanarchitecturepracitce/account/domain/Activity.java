@@ -1,4 +1,4 @@
-package jiminkkk.practice.cleanarchitecturepracitce.domain;
+package jiminkkk.practice.cleanarchitecturepracitce.account.domain;
 
 import java.time.LocalDateTime;
 
